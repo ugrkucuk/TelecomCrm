@@ -1,0 +1,6 @@
+c:\users\eugukuc\documents\visual studio 2015\Projects\RailroadServices\RailroadServices\bin\Debug\RailroadServices.exe.config
+c:\users\eugukuc\documents\visual studio 2015\Projects\RailroadServices\RailroadServices\bin\Debug\RailroadServices.exe
+c:\users\eugukuc\documents\visual studio 2015\Projects\RailroadServices\RailroadServices\bin\Debug\RailroadServices.pdb
+c:\users\eugukuc\documents\visual studio 2015\Projects\RailroadServices\RailroadServices\obj\Debug\RailroadServices.csprojResolveAssemblyReference.cache
+c:\users\eugukuc\documents\visual studio 2015\Projects\RailroadServices\RailroadServices\obj\Debug\RailroadServices.exe
+c:\users\eugukuc\documents\visual studio 2015\Projects\RailroadServices\RailroadServices\obj\Debug\RailroadServices.pdb
